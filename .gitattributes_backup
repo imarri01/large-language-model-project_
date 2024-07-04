@@ -1,0 +1,9 @@
+.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/*.csv filter=lfs diff=lfs merge=lfs -text
+data/*.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/new_ds_test_dataset.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/new_ds_train_dataset.csv filter=lfs diff=lfs merge=lfs -text
+data/validation_set.csv filter=lfs diff=lfs merge=lfs -text
+notebooks/imarri01-huggingface/model.safetensors filter=lfs diff=lfs merge=lfs -text
+notebooks/my_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+notebooks/my_model/optimizer.pt filter=lfs diff=lfs merge=lfs -text
