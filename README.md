@@ -1,6 +1,4 @@
-Here's the updated `README.md` with the dataset changed to "multi_news":
 
----
 
 # 📝 Large Language Model Project July 2024
 
